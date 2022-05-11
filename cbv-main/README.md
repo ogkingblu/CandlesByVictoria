@@ -1,2 +1,3 @@
-# cbv
-Candles By Victoria
+# Candles By Victoria
+In my final web development course at UCF, I worked on a website for Candles By Victoria (CBV), a small business that sells candles. My team and I created a simple website to present as if Victoria from CBV was our client. I completed the cart functionality, using JavaScript, for the site, where users are able to add items to the cart, increase, decrease or delete quantity of items in the cart, and totals are automatically adjusted as quantities change. I also collaboratively worked on the PHP code with Emily Taylor to create a simple login.
+You can visit the live site at: https://students.cah.ucf.edu/~em108859/dig4172c/CbV/home.php
